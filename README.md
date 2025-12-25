@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Srishti Rathi
+# Srishti Rathi
 
 ### Threat Intelligence Researcher | OSINT Investigator | Security Analyst
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 ```python
 class ThreatIntelligenceResearcher:
@@ -45,71 +45,7 @@ class ThreatIntelligenceResearcher:
 
 ---
 
-## 🔍 Featured Threat Intelligence Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🕵️ [OSINT Threat Intelligence Platform]([LINK](https://github.com/SrishtiCode/Threat-intel-platform))
-**Real-world threat intelligence workflow simulation**
-
-- 🎯 Threat actor profiling & campaign tracking
-- 🔗 Automated IOC collection (IPs, domains, hashes)
-- 📊 Intelligence lifecycle: Collection → Analysis → Reporting
-- 📝 Contextual threat intelligence reports
-
-**Tech Stack:** `Python` `OSINT` `IOC Analysis` `Threat Intel`
-
-</td>
-<td width="50%">
-
-### 🔐 [Vulnerability Scanner & Recon Toolkit]([LINK](https://github.com/SrishtiCode/Vulnerability-Scanner))
-**Automated security reconnaissance pipeline**
-
-- 🔍 Multi-tool integration (Nmap, Hydra, Gobuster)
-- 📁 Structured per-IP result storage
-- 🤖 Automated exploit intelligence gathering
-- 📋 Comprehensive reporting system
-
-**Tech Stack:** `Bash` `Nmap` `SearchSploit` `Automation`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 [WP-OWASP Capture The Flag]([LINK](https://github.com/SrishtiCode/WP-OWASP-CTF))
-**Hands-on threat modeling environment**
-
-- 🐳 Dockerized vulnerable WordPress lab
-- 🎯 OWASP Top 10 exploitation scenarios
-- 🔄 Randomized flags per team
-- 🧪 Adversary behavior simulation
-
-**Tech Stack:** `Docker` `WordPress` `OWASP` `PHP`
-
-</td>
-<td width="50%">
-
-### 🚨 [AI-Based Threat Detection (YOLOv5)]([LINK](https://github.com/SrishtiCode/Threat-Detection))
-**Computer vision for security monitoring**
-
-- 👁️ Real-time threat detection system
-- 🤖 YOLOv5-powered object recognition
-- 📹 Video surveillance analysis
-- ⚡ High-accuracy threat classification
-
-**Tech Stack:** `Python` `YOLOv5` `OpenCV` `Deep Learning`
-
-</td>
-</tr>
-</table>
-
----
-
-## 💼 Threat Intelligence Experience
+##  Threat Intelligence Experience
 
 ```yaml
 Independent Security Researcher:
@@ -128,45 +64,25 @@ CTI Skills Applied:
   - "Forum and marketplace triage"
 ```
 
----
-
 ## 🛠️ Technical Arsenal
 
-### 🔎 Threat Intelligence & OSINT
+### Threat Intelligence & OSINT
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Maltego](https://img.shields.io/badge/Maltego-1679A7?style=for-the-badge&logo=maltego&logoColor=white)
 
-### 🔐 Security Testing & Analysis
+### Security Testing & Analysis
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 💻 Development & Automation
+### Development & Automation
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrishtiCode&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrishtiCode&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1D9"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SrishtiCode&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -219,11 +135,11 @@ Networking Basics
 
 | Intelligence Lifecycle | OSINT Techniques | Analytical Skills |
 |:----------------------:|:----------------:|:-----------------:|
-| ✅ Collection | ✅ Surface Web Research | ✅ Threat Actor Profiling |
-| ✅ Processing | ✅ Deep Web Investigation | ✅ IOC Correlation |
-| ✅ Analysis | ✅ Forum Triage | ✅ Campaign Attribution |
+| ✅ Collection| ✅ Surface Web Research| ✅ Threat Actor Profiling |
+| ✅ Processing| ✅ Deep Web Investigation | ✅ IOC Correlation |
+| ✅ Analysis| ✅ Forum Triage| ✅ Campaign Attribution |
 | ✅ Dissemination | ✅ Marketplace Monitoring | ✅ Intelligence Writing |
-| ✅ Feedback | ✅ Social Media Intel | ✅ RFI Response |
+| ✅ Feedback| ✅ Social Media Intel| ✅ RFI Response |
 
 </div>
 
