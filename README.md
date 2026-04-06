@@ -12,7 +12,7 @@ B.Tech Computer Engineering, J.C. Bose University
 - Manual and automated auditing of DeFi protocols and ERC standards
 - Exploit development — reentrancy, access control, storage collision, delegatecall abuse
 - Flash loan attack simulations and economic attack modeling
-- CTF research — Ethernaut (all levels), Damn Vulnerable DeFi
+- CTF Completed(all levels) — Ethernaut,  Damn Vulnerable DeFi
 
 ---
 
