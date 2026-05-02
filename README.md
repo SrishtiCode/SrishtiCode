@@ -42,10 +42,12 @@ Blockchain forensics · Fund tracing · MEV analysis · Mempool monitoring · Wa
 ## Projects
 
 **evmdecode — github.com/SrishtiCode/evmdecode**
-EVM transaction decoder & MEV analyzer built in Rust. Decodes ABI calldata, simulates transactions, disassembles bytecode (844-instruction EVM parser), detects Uniswap swaps/sandwiches/arbitrage. Stack: alloy-rs · tokio · clap · reqwest.
+EVM transaction decoder & MEV analyzer built in Rust. Decodes ABI calldata, simulates transactions, disassembles bytecode (844-instruction EVM parser), detects Uniswap swaps/sandwiches/arbitrage. 
+Stack: alloy-rs · tokio · clap · reqwest.
 
-**Solana Token Vault (in progress)**
-Anchor-based program implementing secure token deposits and withdrawals using PDAs, with authority checks and CPI to SPL Token program.
+**SPL Token Staking Program — github.com/SrishtiCode/SPL-Token-Staking-Program**
+An on-chain staking contract where users deposit SPL tokens and earn yield over time. Includes lock-up periods, reward calculation, and early withdrawal penalties. 
+Stack: Rust · Anchor 0.31.1 · Solana · SPL Token · PDAs · CPI · TypeScript
 
 ---
 
