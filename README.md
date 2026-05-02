@@ -1,7 +1,6 @@
 # Srishti Rathi
 
 Web3 Security Researcher · Smart Contract Auditor · Solana Rust Developer
-B.Tech Computer Engineering, J.C. Bose University
 
 ---
 
