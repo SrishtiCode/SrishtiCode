@@ -1,65 +1,64 @@
 # Srishti Rathi
 
-Web3 Security Researcher · Smart Contract Auditor · Solana Rust Developer
+**Zero-Knowledge Engineer | Rust Developer | Protocol Security Researcher**
 
----
+Recent Computer Science graduate focused on zero-knowledge proof systems, cryptographic protocols, and systems programming in Rust. Currently building proving-system components from scratch and exploring production ZK codebases.
 
-## Experience
+## ZK Engineering
 
-**Independent Web3 Security Researcher** · July 2025 – Present
+### [zkVM / STARK Prover](https://github.com/SrishtiCode/zkVM)
 
-- Manual and automated auditing of DeFi protocols and ERC standards
-- Exploit development — reentrancy, access control, storage collision, delegatecall abuse
-- Flash loan attack simulations and economic attack modeling
-- CTF Completed (all levels) — Ethernaut, Damn Vulnerable DeFi
-- Built evmdecode — EVM transaction decoder, simulator, disassembler, and MEV analyzer in Rust using alloy-rs; detects Uniswap V2/V3 swaps, sandwich attacks, and arbitrage with confidence scoring
-- Developing Solana programs in Rust using Anchor framework — token vaults, PDA-based access control, cross-program invocations (CPI)
+Building an educational STARK proving system from scratch in Rust to understand the complete prover-verifier pipeline at the implementation level.
 
----
+Implemented finite-field arithmetic, polynomial interpolation, FFT/IFFT, low-degree extension, Merkle commitments, Fiat-Shamir transcripts, and FRI folding. Working with execution traces, AIR constraints, composition polynomials, and low-degree testing.
 
-## Skills
+**Rust | STARKs | FRI | AIR | FFT | Finite Fields | Polynomial IOPs**
 
-**Solana Development**
-Anchor framework · Program Derived Addresses (PDAs) · Cross-Program Invocation (CPI) · SPL tokens · Account validation · Rent & account sizing
+### [KZG Polynomial Commitment Scheme](https://github.com/SrishtiCode/KZG-PCS)
 
-**Rust Development**
-Multi-crate workspaces · async/await with tokio · alloy-rs · Solana SDK · CLI tooling with clap · RPC client design
+Implemented a KZG polynomial commitment scheme from scratch in Rust, covering polynomial commitments, evaluation proofs, quotient polynomial construction, and pairing-based verification.
 
-**Contract Security**
-Reentrancy · Access control flaws · Delegatecall abuse · Storage collisions · Oracle manipulation · Flash loan attacks
+Worked with structured reference strings (SRS), trusted setup concepts, elliptic-curve group operations, and bilinear pairings to understand how KZG enables succinct polynomial opening proofs.
 
-**EVM Internals**
-Opcodes & bytecode · ABI encoding · Storage layout · Gas optimization · Proxy patterns · MEV & mempool
+**Rust | KZG | Polynomial Commitments | BLS12-381 | Bilinear Pairings**
 
-**Tooling**
-Foundry · Hardhat · Slither · Echidna · Mythril · Tenderly · Cargo · Anchor CLI
+### zkSync Airbender Research
 
-**On-Chain Intelligence**
-Blockchain forensics · Fund tracing · MEV analysis · Mempool monitoring · Wallet clustering
+Studied the architecture and implementation of Airbender, a Rust-based RISC-V zkVM proving system. Traced execution and proving components to understand how ZK protocol concepts translate into production code.
 
----
+Also investigated Ethereum execution behavior using execution-spec fixtures and differential testing.
 
-## Projects
+**Rust | zkVM | RISC-V | ZK Provers | Ethereum Execution**
 
-**evmdecode — github.com/SrishtiCode/evmdecode**
-EVM transaction decoder & MEV analyzer built in Rust. Decodes ABI calldata, simulates transactions, disassembles bytecode (844-instruction EVM parser), detects Uniswap swaps/sandwiches/arbitrage. 
-Stack: alloy-rs · tokio · clap · reqwest.
+## Other Projects
 
-**SPL Token Staking Program — github.com/SrishtiCode/SPL-Token-Staking-Program**
-An on-chain staking contract where users deposit SPL tokens and earn yield over time. Includes lock-up periods, reward calculation, and early withdrawal penalties. 
-Stack: Rust · Anchor 0.31.1 · Solana · SPL Token · PDAs · CPI · TypeScript
+### [evmdecode](https://github.com/SrishtiCode/evmdecode)
 
----
+EVM transaction analysis toolkit written in Rust. Implements ABI calldata decoding, transaction simulation, bytecode disassembly, an 844-instruction EVM parser, and detection of Uniswap V2/V3 swaps, sandwich attacks, and arbitrage activity.
 
-## Languages
+**Rust | alloy-rs | tokio | EVM | MEV**
 
-Solidity · Rust · Python · JavaScript · Bash · Assembly (EVM / x86)
+### [SPL Token Staking Program](https://github.com/SrishtiCode/SPL-Token-Staking-Program)
 
----
+Solana staking program written in Rust and Anchor. Implements SPL token deposits, PDA-based access control, reward calculation, lock-up periods, early withdrawal penalties, and cross-program invocations.
 
-## Recognition
+**Rust | Solana | Anchor | SPL Token | PDAs | CPI**
 
-- **TryHackMe** — Top 1% globally, Jr. Penetration Tester
-- **Smart India Hackathon** — Winner
-- **Cisco** — Junior Cybersecurity Analyst
-- **Bug Bounty** — Active researcher on Immunefi & Code4rena
+## Technical Focus
+
+**Zero-Knowledge:** STARKs, FRI, AIR, KZG, Polynomial Commitments, Fiat-Shamir, Merkle Commitments
+
+**Cryptography:** Finite Fields, Polynomial Arithmetic, FFT/IFFT, BLS12-381, Bilinear Pairings, R1CS, QAP, Groth16
+
+**Engineering:** Rust, Solidity, EVM, Git, Foundry, Cargo
+
+## Background
+
+* Independent Web3 and protocol security research
+* Six months of professional software engineering internship experience
+* Smart India Hackathon Winner
+* TryHackMe Top 1% globally
+
+## Current Focus
+
+Seeking **Junior ZK Engineer, Prover Engineer, Cryptography Engineer, or Protocol Engineer** opportunities where I can contribute to real proving systems and work alongside experienced ZK engineers.
