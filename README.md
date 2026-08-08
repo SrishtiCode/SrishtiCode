@@ -72,7 +72,3 @@ A Solana staking program written in Rust and Anchor. Implements SPL token deposi
 **Junior ZK Engineer · Prover Engineer · Cryptography Engineer · Protocol Engineer**
 
 Open to roles where I can contribute to real proving systems and grow alongside experienced ZK engineers.
-
-<p align="center">
-  <a href="https://github.com/SrishtiCode">GitHub</a>
-</p>
