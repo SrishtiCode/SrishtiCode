@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Srishti Rathi </h1>
-<h3 align="center">Zero-Knowledge Engineer | Rust Developer | Protocol Security Researcher</h3>
+<h3 align="center">Zero-Knowledge Engineer | Rust Developer | Protocol Security Researcher | EVM</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
