@@ -52,7 +52,9 @@ A Solana staking program written in Rust and Anchor. Implements SPL token deposi
 ## Technical Focus
 
 **Zero-Knowledge:** STARKs · FRI · AIR · KZG · Polynomial Commitments · Fiat-Shamir · Merkle Commitments
+
 **Cryptography:** Finite Fields · Polynomial Arithmetic · FFT/IFFT · BLS12-381 · Bilinear Pairings · R1CS · QAP · Groth16
+
 **Engineering:** Rust · Solidity · EVM · Git · Foundry · Cargo
 
 ---
