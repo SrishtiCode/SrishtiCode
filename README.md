@@ -69,6 +69,6 @@ A Solana staking program written in Rust and Anchor. Implements SPL token deposi
 
 ## Currently Seeking
 
-**Junior ZK Engineer · Prover Engineer · Cryptography Engineer · Protocol Engineer**
+**Junior ZK Engineer · Prover Engineer · Cryptography Engineer · Protocol Engineer · Security Researcher**
 
 Open to roles where I can contribute to real proving systems and grow alongside experienced ZK engineers.
