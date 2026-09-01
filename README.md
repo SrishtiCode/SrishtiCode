@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Zero--Knowledge-6C3EF4?style=flat" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Circom-808080?style=flat&logo=Circom&logoColor=white"/>
 </p>
 
 Recent Computer Science graduate focused on zero-knowledge proof systems, cryptographic protocols, and systems programming in Rust. I build proving-system components from first principles and study production ZK codebases to understand how the theory translates into real, working systems.
