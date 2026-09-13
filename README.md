@@ -36,6 +36,15 @@ Studied the architecture and implementation of Airbender, a Rust-based RISC-V zk
 
 ---
 
+## Writing & Learning Resources
+
+### [ZKRoadmap](https://github.com/SrishtiCode/ZKRoadmap)
+A structured, curated roadmap for learning Zero-Knowledge Proofs end-to-end — math foundations → cryptographic primitives → proof systems (Groth16, PLONK, STARKs, FRI, Halo, folding schemes) → applied engineering (Cairo, Rust, prover engineering, zkVMs, rollups) — paired with the best free resource for each topic. Completed the full roadmap myself; now open source for other students and researchers navigating the same path.
+
+`Zero-Knowledge` `Cryptography` `Technical Writing` `Open Source`
+
+---
+
 ## Other Projects
 
 ### [evmdecode](https://github.com/SrishtiCode/evmdecode)
@@ -52,11 +61,11 @@ A Solana staking program written in Rust and Anchor. Implements SPL token deposi
 
 ## Technical Focus
 
-**Zero-Knowledge:** STARKs · FRI · AIR · KZG · Polynomial Commitments · Fiat-Shamir · Merkle Commitments
+**Zero-Knowledge:** Groth16 · PLONK · STARKs · FRI · AIR · KZG · Halo2 · Folding Schemes (Nova) · Sumcheck · Lookup Arguments · Polynomial Commitments · Fiat-Shamir · Merkle Commitments
 
-**Cryptography:** Finite Fields · Polynomial Arithmetic · FFT/IFFT · BLS12-381 · Bilinear Pairings · R1CS · QAP · Groth16
+**Cryptography:** Finite Fields · Polynomial Arithmetic · FFT/IFFT · BLS12-381 · Bilinear Pairings · Elliptic Curves · R1CS · QAP
 
-**Engineering:** Rust · Solidity · EVM · Git · Foundry · Cargo
+**Engineering:** Rust · Solidity · Cairo · Circom · EVM · zkVMs · Git · Foundry · Cargo
 
 ---
 
