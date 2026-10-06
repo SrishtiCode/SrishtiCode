@@ -18,7 +18,7 @@ I turn mathematical statements written in natural language into **precise, compi
 
 ## Lean 4 & Formal Verification
 
-### [Lean 4 Formalizations](https://github.com/SrishtiCode/YOUR-LEAN-REPO) <!-- TODO: replace with your real repo -->
+### [Lean 4 Formalizations](https://github.com/SrishtiCode/Lean)
 Machine-checked Lean 4 proofs and formalizations of mathematical statements, built with Mathlib.
 
  <!-- TODO: 2-3 concrete items, e.g. "Finite field / polynomial identities", "Formalization of <theorem>", "Review of <someone's> formal statement" -->
