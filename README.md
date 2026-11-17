@@ -12,7 +12,9 @@
 
 Computer Science graduate working on **Lean 4, formal verification, SMT/Z3, and machine-checked mathematics**, with a deep background in **zero-knowledge cryptography and Rust**.
 
-I turn mathematical statements written in natural language into **precise, compilable Lean 4 proofs**, and I care about more than getting a proof to compile: does the formal statement capture the intended meaning, are the assumptions complete, and does the informal argument hide a logical gap? My ZK work (finite fields, polynomial arithmetic, commitments, proof systems) gives me the mathematical depth to formalize the material I'm most interested in.
+My focus is turning mathematical and protocol-level claims into precise, machine-checked specifications and proofs. I'm particularly interested in Lean 4 formalization, SMT-based reasoning, cryptographic protocol verification, and the soundness of complex systems.
+
+I care about not just whether a proof compiles, but whether it proves the right thing.
 
 ---
 
@@ -77,3 +79,7 @@ Open-source, end-to-end learning roadmap for ZK: math foundations → cryptograp
 - TryHackMe: Top 1% globally
 - 6 months of professional software engineering experience
 - Independent research in ZK systems, formal verification, and protocol security
+
+---
+
+*Interested in building systems where correctness is not just expected, but formally established.*
